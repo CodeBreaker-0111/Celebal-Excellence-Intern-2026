@@ -45,18 +45,16 @@ Each week's folder contains the corresponding assignments, notebooks, datasets, 
 
 ## 📅 Progress Tracker
 
-| Week | Topic | Status |
-|------|--------|--------|
-| Week 01 | Python, Linear Algebra, Statistics & Probability | ✅ Completed |
-| Week 02 | To Be Updated | ⏳ |
-| Week 03 | To Be Updated | ⏳ |
-| Week 04 | To Be Updated | ⏳ |
-| Week 05 | To Be Updated | ⏳ |
-| Week 06 | To Be Updated | ⏳ |
-| Week 07 | To Be Updated | ⏳ |
-| Week 08 | To Be Updated | ⏳ |
-
----
+| Week | Focus Area | Status |
+|------|------------|--------|
+| Week 01 | ML Foundations (Python, NumPy, Pandas, Linear Algebra, Statistics & Probability) | ✅ Completed |
+| Week 02 | Classical Machine Learning & Time Series Analysis | ✅ Completed |
+| Week 03 | Coming Soon | ⏳ |
+| Week 04 | Coming Soon | ⏳ |
+| Week 05 | Coming Soon | ⏳ |
+| Week 06 | Coming Soon | ⏳ |
+| Week 07 | Coming Soon | ⏳ |
+| Week 08 | Coming Soon | ⏳ |
 
 ## 🛠️ Technologies & Tools
 
