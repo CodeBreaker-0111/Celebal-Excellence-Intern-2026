@@ -1,0 +1,13 @@
+pypdf>=4.0.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+
+# Optional (better semantic embeddings instead of TF-IDF) — needs internet
+# access to huggingface.co to download model weights the first time.
+# sentence-transformers>=2.2.0
+# faiss-cpu>=1.7.4
+
+# Optional (LLM-based generation instead of the built-in extractive
+# fallback). Only one of these is needed — set the matching env var.
+# anthropic>=0.40.0
+# openai>=1.0.0
