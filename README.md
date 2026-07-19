@@ -46,16 +46,51 @@ Each week's folder contains the corresponding assignments, notebooks, datasets, 
 ## 📅 Progress Tracker
 
 | Week | Focus Area | Status |
-|--------|------------|--------|
-| Week 01 | ML Foundations (Python, NumPy, Pandas, Linear Algebra, Statistics & Probability) | ✅ Completed |
-| Week 02 | Classical Machine Learning & Time Series Analysis | ✅ Completed |
-| Week 03 | Classification, Ensemble Learning & Clustering | ✅ Completed |
-| Week 04 | Coming Soon | ⏳ |
-| Week 05 | Coming Soon | ⏳ |
-| Week 06 | Coming Soon | ⏳ |
-| Week 07 | Coming Soon | ⏳ |
-| Week 08 | Coming Soon | ⏳ |
-``` 🚀
+|--------|---------------------------------------------------------------|----------------|
+| Week 01 | Machine Learning Foundations (Python, NumPy, Pandas, Linear Algebra, Statistics & Probability) | ✅ Completed |
+| Week 02 | Supervised Machine Learning, Regression & Time Series Analysis | ✅ Completed |
+| Week 03 | Classification, Ensemble Learning, Clustering & Lead Scoring Project | ✅ Completed |
+| Week 04 | Deep Learning Fundamentals | ⏳ Upcoming |
+| Week 05 | Natural Language Processing (NLP) | ⏳ Upcoming |
+| Week 06 | Large Language Models (LLMs) & Generative AI | ⏳ Upcoming |
+| Week 07 | Retrieval-Augmented Generation (RAG) & AI Applications | ⏳ Upcoming |
+| Week 08 | Final Capstone Project & Deployment | ⏳ Upcoming |
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Week 03 — Lead Scoring using Machine Learning
+
+**Objective:**  
+Developed a Machine Learning model to predict the probability of lead conversion for **X Education**, enabling the sales team to prioritize high-potential leads and improve conversion rates.
+
+### 🔑 Key Highlights
+
+- ✅ Data Cleaning & Missing Value Handling
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Feature Engineering & Data Preprocessing
+- ✅ Logistic Regression
+- ✅ Decision Tree Classifier
+- ✅ Random Forest Classifier
+- ✅ Model Comparison using Accuracy, Precision, Recall, F1-Score & ROC-AUC
+- ✅ Lead Score Generation (0–100)
+- ✅ Lead Categorization (Hot, Warm & Cold Leads)
+- ✅ Model Export using Joblib (`lead_scoring_model.pkl`)
+
+### 🛠️ Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Joblib
+- Jupyter Notebook
+
+### 📂 Project Location
+
 
 ## 🛠️ Technologies & Tools
 
